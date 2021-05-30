@@ -20,6 +20,7 @@ A subdomain creates a pathway that can be used by both the web app and the dedic
 > Mine are set to my backend server's ip as follows: http://192.168.1.xxx:8080 and http://192.168.1.xxx:8080/seafhttp respectively.
 > **Failing to do this will prevent you from uploading/downloading any files!**
 
+## VHost file settings
 ```
 <VirtualHost *:443>
 
